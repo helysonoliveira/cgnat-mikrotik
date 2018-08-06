@@ -14,8 +14,8 @@ Variável definida como "IP_PUB_STOP" define-se o ip final do bloco público. (D
 
 Variável definiada "IP_CGNAT" defini-se a quantidade de clientes privados que sairá por um ÚNICO ip público. 
 
-Um exemplo disso seria: 1:64 = 1023 portas por ip fixas
-			1:32 = 2046 portas por ip fixas
+Um exemplo disso seria: 1:64 = 1 ip público, com 64 ip privados onde 1023 portas por ip privado fixas
+			1:32 = 1 ip público, com 32 ip privados onde 2046 portas por ip privado fixas
 
 (OBS.: Recomeda-se fazer o MÍNIMO de portas por cliente privado em 1024.)
 (OBS2.: O SCRIPT NÃO IRA GERAR PORTAS A BAIXO DE 1024 PARA OS CLIENTES. ESSAS PORTAS FICAM PARA SUA GERÊNCIA)
