@@ -2,7 +2,9 @@
 
 
 Itens necessários:
+
 -> php
+
 -> shell terminal
 
 Modo de uso:
