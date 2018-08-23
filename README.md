@@ -1,7 +1,7 @@
 # cgnat-mikrotik
 
 
-Ítens necessários:
+Itens necessários:
 -> php
 -> shell terminal
 
