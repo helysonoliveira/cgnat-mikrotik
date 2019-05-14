@@ -35,3 +35,6 @@ Ele ira criar um arquivo com o nome:"cgnat-mikrotik.txt" na mesma pasta. Copie e
 Em algumas versões do Shell, você pode ter problema de escrita nos script. Rode o comando na pasta com os script:
 
 - chmod +o *
+
+Projeto inspirado em:
+https://github.com/sjollenbeck/cgnat-iptables
